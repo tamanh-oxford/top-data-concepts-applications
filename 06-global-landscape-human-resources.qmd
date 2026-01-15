@@ -1,0 +1,6 @@
+---
+output-file: global-landscape-human-resources.html
+---
+
+# Global landscape of human resources for data {#sec-chapter06}
+

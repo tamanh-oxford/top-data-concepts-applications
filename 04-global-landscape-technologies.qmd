@@ -1,0 +1,5 @@
+---
+output-file: global-landscape-technologies.html
+---
+
+# Global landscape of available technologies for data {#sec-chapter04}
