@@ -68,7 +68,7 @@ book:
         - 901-uk-landscape.qmd
         - 902-singapore-open-government.qmd
         - 903-un-tech.qmd
-    - references.qmd
+    - 999-references.qmd
   # appendices: 
   #   - 12-mobile-device-setup.qmd
   #   - 13-odk-setup.qmd
@@ -87,7 +87,7 @@ crossref:
   appendix-delim: ":"
 
 bibliography: references.bib
-csl: apa-single-spaced.csl
+csl: csl/apa-single-spaced.csl
 
 format:
   html:
